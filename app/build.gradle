@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.warungku.kasir'; compileSdk 34
+    defaultConfig { applicationId 'com.warungku.kasir'; minSdk 23; targetSdk 34; versionCode 11; versionName '1.1' }
+}
